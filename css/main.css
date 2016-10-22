@@ -104,7 +104,7 @@ body {
 .top_line .logo:hover{
     border-bottom: none;
 }
-.top_addr .ta_right{
+.ta_right{
     padding-left: 0;
     text-align: right;
     background-image: none;
